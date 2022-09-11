@@ -10,7 +10,6 @@
   "reactComponent": {
     "prefix": "reactComponent",
     "body": [
-      "import React from 'react'",
       "import clsx from 'clsx'",
       "",
       "export interface Props {",
