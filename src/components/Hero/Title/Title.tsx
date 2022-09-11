@@ -7,10 +7,10 @@ export interface Props {
 const Title = ({ className }: Props) => {
   return (
     <div className={clsx(className,
-        "text-6xl",
-        "font-bold",
-        "underline")}>
-      <span>Title</span>
+        "font-accent",
+        "text-5xl md:text-6xl lg:text-7xl",
+        )}>
+      <span>Aathavan</span>
     </div>
   )
 }

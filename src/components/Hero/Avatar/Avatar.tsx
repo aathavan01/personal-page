@@ -1,4 +1,5 @@
 import clsx from 'clsx'
+import logo from "../../../aathavan-profile.png"
 
 export interface Props {
   className?: string
@@ -7,7 +8,7 @@ export interface Props {
 const Avatar = ({ className }: Props) => {
   return (
     <div className={clsx(className)}>
-      <span>Avatar</span>
+      <img src={logo} alt="image"/>
     </div>
   )
 }

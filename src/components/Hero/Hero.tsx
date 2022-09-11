@@ -9,8 +9,14 @@ export interface Props {
 const Hero = ({ className }: Props) => {
   return (
     <div className={clsx(className)}>
-      <Avatar/>
-      <Title/>
+    <div className='flex justify-center'>
+      <div className="flex-col">
+        <Avatar/>
+        <Title/>
+        
+      </div>
+          
+    </div>
     </div>
   )
 }
