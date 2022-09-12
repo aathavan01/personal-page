@@ -1,5 +1,5 @@
 import SocialMedia from './SocialMedia'
-import yarlIt from "../../yarl-it-hub-inverted-logo.png"
+import yarlIt from "../../yarl-it-hub-logo.png"
 import uki from "../../uki-logo.png"
 
 export interface Props {

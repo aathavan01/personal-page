@@ -9,7 +9,7 @@ import "./i18n"
 function App() {
   return (
   <div className="flex flex-col min-h-screen mx-auto px-2 pt-4 ">
-    <div><Header/></div>
+    <div className='sticky top-0 ...'><Header/></div>
     <div><Hero/></div>
     <div className='flex justify-center'><Biography/></div>
     <div className='flex justify-center'><Footer/></div>
