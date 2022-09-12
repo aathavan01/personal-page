@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/personal-page/static/css/main.d86b9cbb.css",
-    "main.js": "/personal-page/static/js/main.ed27bcd4.js",
+    "main.css": "/personal-page/static/css/main.5efb48f7.css",
+    "main.js": "/personal-page/static/js/main.d5da366c.js",
     "static/js/787.59752a46.chunk.js": "/personal-page/static/js/787.59752a46.chunk.js",
     "static/media/aathavan-profile.png": "/personal-page/static/media/aathavan-profile.10254c29d14a2bc3bcd0.png",
+    "static/media/yarl-it-hub-logo.png": "/personal-page/static/media/yarl-it-hub-logo.81db16c32e7a05320377.png",
     "static/media/uki-logo.png": "/personal-page/static/media/uki-logo.42b49f3b43fce7c9b177.png",
-    "static/media/yarl-it-hub-inverted-logo.png": "/personal-page/static/media/yarl-it-hub-inverted-logo.30075e136c5f3874e816.png",
     "static/media/github-logo.svg": "/personal-page/static/media/github-logo.04be58c17b3d5e9744424d414240dd85.svg",
     "index.html": "/personal-page/index.html",
     "static/media/facebook-logo.svg": "/personal-page/static/media/facebook-logo.2dd5bdd216194f5edc8cf589f0378383.svg",
-    "main.d86b9cbb.css.map": "/personal-page/static/css/main.d86b9cbb.css.map",
-    "main.ed27bcd4.js.map": "/personal-page/static/js/main.ed27bcd4.js.map",
+    "main.5efb48f7.css.map": "/personal-page/static/css/main.5efb48f7.css.map",
+    "main.d5da366c.js.map": "/personal-page/static/js/main.d5da366c.js.map",
     "787.59752a46.chunk.js.map": "/personal-page/static/js/787.59752a46.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d86b9cbb.css",
-    "static/js/main.ed27bcd4.js"
+    "static/css/main.5efb48f7.css",
+    "static/js/main.d5da366c.js"
   ]
 }
