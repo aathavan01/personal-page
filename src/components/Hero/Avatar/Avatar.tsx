@@ -8,7 +8,7 @@ export interface Props {
 const Avatar = ({ className }: Props) => {
   return (
     <div className={clsx(className)}>
-      <img src={logo} alt="image"/>
+      <img className='w-80' src={logo} alt="image"/>
     </div>
   )
 }

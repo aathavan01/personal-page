@@ -1,0 +1,26 @@
+{
+    "Biography": {
+      "bio1": "என் பெயர் ஆதவன் கோ. ",
+      "bio2": "நான் ஒரு React டெவலப்பர் ",
+      "bio3": "Uki கோடிங் பள்ளியில் படிக்கிறேன்  ",
+      "bio4": "Uki கோஹார்ட் 2022 ",
+      "bio5": "நான் கோப்பாயில் இருந்து வருகிறேன் ",
+      "bio6": "யாழ் இந்துக் கல்லூரியில் படித்தேன்",
+      "bio7": "நான் முழு ஸ்டாக் டெவலப்பராக வருவேன்  ",
+      "bio8": "நீங்கள் தொடர்பு கொள்வதட்கு  ",
+      "bio9": "Number: +94761903375",
+      "email": "மின்னஞ்சல் :aathavan4580@gmail.com"
+    },
+    "Hero": {
+      "title": "ஆதவன் கோ.",
+      "subtitle": {
+        "reactDev": "React developer",
+        "cricketPlayer": "Ui/Ux designer",
+        "hobbyPhotographer": "Student"
+      }
+    },
+    "LanguageSwitch": {
+      "english": "English",
+      "tamil": "தமிழ்"
+    }
+  }

@@ -1,0 +1,26 @@
+{
+    "Biography": {
+      "bio1": "My name is Aathavan k. ",
+      "bio2": "I am a React developer. ",
+      "bio3": " Studying at Uki Coding School ",
+      "bio4": "(Uki cohort 2022). ",
+      "bio5": "I am from Kopay ",
+      "bio6": "Studied at jaffna hindu collage",
+      "bio7": "I will be a full stack developer ",
+      "bio8": "You can reach out via ",
+      "bio9": "Number: +94761903375",
+      "email":"email:aathavan4580@gmail.com"
+    },
+    "Hero": {
+      "title": "Aathavan k.",
+      "subtitle": {
+        "reactDev": "React developer",
+        "cricketPlayer": "Ui/Ux Designer",
+        "hobbyPhotographer": "Student"
+      }
+    },
+    "LanguageSwitch": {
+      "english": "English",
+      "tamil": "தமிழ்"
+    }
+  }
